@@ -1,0 +1,5 @@
+Server:
+root - barcelona
+pi - hellokitty
+games - soccer
+demo - chocolate
